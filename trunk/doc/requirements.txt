@@ -1,0 +1,33 @@
+- CGI 
+- FastCGI 
+- SCGI
+- C++ CGI
+- Boost CGI
+- C++ MVC
+- C++ DB
+- CGI Apache
+- CGI IIS
+- JSON
+- JQuery
+
+
+
+----------------------------------------------------------------------------------------
+C++ CGI
+--------------------------------------------------------------------------------------
+
+http://www.achacha.org/freeCGI/
+http://www.gnu.org/software/cgicc/
+http://rudeserver.com/cgiparser/
+http://www.yolinux.com/TUTORIALS/LinuxTutorialC++CGI.html
+
+
+----------------------------------------------------------------------------------------
+Boost CGI
+--------------------------------------------------------------------------------------
+
+http://omnisplat.com/docs/
+https://svn.boost.org/trac/boost/wiki/soc/2007/cgi
+http://sourceforge.net/projects/cgi/
+
+----------------------------------------------------------------------------------------

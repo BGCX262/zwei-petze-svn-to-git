@@ -1,0 +1,24 @@
+recapitulando:
+
+Usar:
+
+- Jquery tanto para ajax como el grid.
+- Invocar el store-procedure.
+- Paginado del grid REAL.
+- Webtest para testear concurrencia.
+- Debe andar en multiples Navegadores (basta con que anda para todos en el firefox para mi)
+- Diseño de la aplicacion OOP y MVC
+- Debe ser aprueba de morlocks y Satan.
+
+Creo que con esto recapitula lo que hay que hacer.
+Si me olvide de algo agregenlo que lo tengo como to-do list del gmail ejejeje buenismo!
+
+Saludos 
+
+Señores
+
+Agrego estos requerimientos que nos pueden ayudar a destilar los tiempos por transaccion y donde es que cada app tarda tiempo.
+
+Recomiendo que el logging sea al comienzo de la ejecucion del controller, y al final. Otra antes y despues de mandar a a ejecutar el store procedure.
+
+Creo que todo lo q mencionamos no son cosas locas no? cualquier aplicacion seria tiene toda estas cuestiones...

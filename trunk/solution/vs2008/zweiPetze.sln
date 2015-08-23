@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1945", "1945.vcproj", "{8929F7A6-E1C2-4F4B-B154-EAF3ABE2719B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "servent", "..\..\subprojects\Servent\makefiles\vs2008\servent.vcproj", "{0DA739C8-E19E-4C50-905A-7275A771718A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8929F7A6-E1C2-4F4B-B154-EAF3ABE2719B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8929F7A6-E1C2-4F4B-B154-EAF3ABE2719B}.Debug|Win32.Build.0 = Debug|Win32
+		{8929F7A6-E1C2-4F4B-B154-EAF3ABE2719B}.Release|Win32.ActiveCfg = Release|Win32
+		{8929F7A6-E1C2-4F4B-B154-EAF3ABE2719B}.Release|Win32.Build.0 = Release|Win32
+		{0DA739C8-E19E-4C50-905A-7275A771718A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0DA739C8-E19E-4C50-905A-7275A771718A}.Debug|Win32.Build.0 = Debug|Win32
+		{0DA739C8-E19E-4C50-905A-7275A771718A}.Release|Win32.ActiveCfg = Release|Win32
+		{0DA739C8-E19E-4C50-905A-7275A771718A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

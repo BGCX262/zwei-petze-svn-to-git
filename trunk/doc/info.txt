@@ -1,0 +1,9 @@
+CGI Programming
+	http://www.wrensoft.com/zoom/support/faq_cgi_iis.html
+	http://www.cs.tut.fi/~jkorpela/forms/cgic.html
+	
+	
+FastCGI IIS
+	http://www.iis.net/extensions/FastCGI
+	http://www.vivaphp.com.ar/soft/iis-fastcgi-extension.html
+	http://learn.iis.net/page.aspx/246/using-fastcgi-to-host-php-applications-on-iis-70/

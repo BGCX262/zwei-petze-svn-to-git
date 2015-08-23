@@ -1,0 +1,34 @@
+WIN32
+	
+	System/Environment Variables -> User Variables
+	
+		BOOST_ROOT: C:\Program Files\boost\boost_1_39_0			(Nota, no poner la barra "\" final)
+		LOKI_ROOT:  C:\Program Files\loki\loki_0_1_7
+		LOKI_INC:   %LOKI_ROOT%\include
+
+		- Verizon
+			DEVHOME:		C:\Documents and Settings\fernando.pellicioni\My Documents\Development
+		- Home
+			DEVHOME:		
+		- TCS
+			DEVHOME:		
+		
+Eclipse Configuration:
+
+	(Windows->Preferences->C/C++->Build Variables->"Show system variables")
+
+	Include Dirs:
+						"${BOOST_ROOT}"
+						
+	Lib Dirs: 
+						"${BOOST_ROOT}\stage\lib"
+	
+	Libs:
+						libboost_system-mgw43-mt
+						libboost_thread-mgw43-mt	
+						libws2_32
+						mswsock
+
+						//libboost_serialization-mgw43-mt
+						//libboost_date_time-mgw43-mt
+

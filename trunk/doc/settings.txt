@@ -1,0 +1,4 @@
+Environment Variables: 
+
+	User:
+		DEVHOME = C:\Documents and Settings\fernando.pellicioni\My Documents\ABackupear
